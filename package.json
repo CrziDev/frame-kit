@@ -5,6 +5,7 @@
   "type": "module",
   "bin": { "frame-kit": "cli.mjs" },
   "exports": "./src/frame.mjs",
+  "scripts": { "test": "node --test test/*.test.mjs" },
   "dependencies": {
     "playwright-core": "^1.56.1"
   }
