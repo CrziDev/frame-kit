@@ -1,6 +1,6 @@
 # frame-kit
 
-Puts screenshots in a browser-window mockup on a dark gradient background.
+Turn plain screenshots into polished images, shown inside a browser window on a dark background. Also makes cover images with a big headline, and tilted paper slips for receipts.
 
 ## Setup
 
