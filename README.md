@@ -1,6 +1,6 @@
 # frame-kit
 
-Turn plain screenshots into polished images, shown inside a browser window on a dark background. Also makes cover images with a big headline, and tilted paper slips for receipts.
+Turn plain screenshots into polished images in a browser window.
 
 ## Setup
 
