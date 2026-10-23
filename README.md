@@ -1,6 +1,6 @@
 # frame-kit
 
-Puts screenshots in a browser-window mockup on a dark gradient background, for portfolio images. Output is 3840×2400 PNG.
+Puts screenshots in a browser-window mockup on a dark gradient background.
 
 ## Setup
 
