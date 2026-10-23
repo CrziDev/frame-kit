@@ -1,0 +1,11 @@
+{
+  "name": "frame-kit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "bin": { "frame-kit": "cli.mjs" },
+  "exports": "./src/frame.mjs",
+  "dependencies": {
+    "playwright-core": "^1.56.1"
+  }
+}
